@@ -1,0 +1,42 @@
+{
+	"name": "mscdpulse",
+	"version": "0.0.0",
+	"type": "module",
+	"scripts": {
+		"preview": "vite preview",
+		"lint": "svelte-kit sync && eslint --max-warnings 0 --fix . && svelte-check",
+		"dev": "vite dev",
+		"build": "vite build"
+	},
+	"dependencies": {
+		"@tanstack/svelte-query": "^5.56.2",
+		"@trpc/client": "^10.45.2",
+		"@trpc/server": "^10.45.2",
+		"devalue": "^5.1.1",
+		"trpc-svelte-query": "^2.1.0",
+		"zod": "^3.23.8"
+	},
+	"devDependencies": {
+		"@eslint/js": "^9.11.1",
+		"@sveltejs/adapter-auto": "^3.2.5",
+		"@sveltejs/kit": "^2.6.0",
+		"@sveltejs/vite-plugin-svelte": "^4.0.0-next.7",
+		"autoprefixer": "^10.4.20",
+		"eslint": "^9.11.1",
+		"eslint-config-prettier": "^9.1.0",
+		"eslint-plugin-prettier": "^5.2.1",
+		"eslint-plugin-svelte": "^2.36.0-next.13",
+		"globals": "^15.9.0",
+		"postcss": "^8.4.47",
+		"postcss-load-config": "^6.0.1",
+		"prettier": "^3.3.3",
+		"prettier-plugin-svelte": "^3.2.7",
+		"prettier-plugin-tailwindcss": "^0.6.8",
+		"svelte": "^5.0.0-next.259",
+		"svelte-check": "^4.0.3",
+		"tailwindcss": "^3.4.13",
+		"typescript": "~5.6.2",
+		"typescript-eslint": "^8.0.0-alpha.62",
+		"vite": "^5.4.8"
+	}
+}
