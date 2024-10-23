@@ -1,5 +1,5 @@
-import { router, publicProcedure } from '../trpc';
-import { z } from 'zod';
+import { router, publicProcedure } from "../trpc";
+import { z } from "zod";
 
 export const appRouter = router({
 	greeting: publicProcedure
@@ -9,7 +9,7 @@ export const appRouter = router({
 			}),
 		)
 		.query(({ input }) => {
-			return `Welcome to ${input.name ?? 'the world'}!`;
+			return `Welcome to ${input.name ?? "the world"}!`;
 		}),
 });
 

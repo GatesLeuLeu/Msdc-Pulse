@@ -1,4 +1,4 @@
-import { parse, stringify, uneval } from 'devalue';
+import { parse, stringify, uneval } from "devalue";
 
 export const transformer = {
 	input: {
