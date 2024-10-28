@@ -1,8 +1,12 @@
-import { trpcServer } from "$lib/server/server";
+import fs from "node:fs";
+import path from "node:path";
 import type { PageServerLoad } from "./$types";
+import type { ContentType } from "./proxy+page.server";
 
-export const load: PageServerLoad = async (event) => {
-	// You don't need to return the result of this function,
-	// just call it and your data will be hydrated!
-	await trpcServer.greeting.ssr({ name: "the o7 stack" }, event);
+export const load: PageServerLoad = async (_event) => {
+  const pathFile = "src/lib/assets/";
+  const rfs = fs.readFileSync(path.join(`${pathFile}data.json`), "utf8");
+  const content: ContentType[] = JSON.parse(rfs);
+
+  return { content };
 };

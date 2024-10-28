@@ -1,0 +1,26 @@
+[
+	{
+		"path": "src/lib/assets/space.jpg",
+		"name": "space",
+		"type": "img",
+		"ext": "jpg",
+		"duration": 1,
+		"index": 2
+	},
+	{
+		"path": "src/lib/assets/AvaBg.jpg",
+		"name": "avabg",
+		"type": "img",
+		"ext": "jpg",
+		"duration": 1,
+		"index": 0
+	},
+	{
+		"path": "src/lib/assets/Avanade_MSDC.mp4",
+		"name": "promo_msdc",
+		"type": "vid",
+		"ext": "mp4",
+		"duration": 1,
+		"index": 1
+	}
+]
