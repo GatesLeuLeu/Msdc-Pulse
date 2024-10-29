@@ -72,14 +72,6 @@
 		"index": 10
 	},
 	{
-		"path": "src/lib/assets/Picture11.png",
-		"name": "Monitoring_11",
-		"type": "img",
-		"ext": "png",
-		"duration": 0.5,
-		"index": 11
-	},
-	{
 		"path": "src/lib/assets/Picture12.png",
 		"name": "Monitoring_12",
 		"type": "img",
@@ -100,7 +92,7 @@
 		"name": "promo_msdc",
 		"type": "vid",
 		"ext": "mp4",
-		"duration": 1,
+		"duration": 3.45,
 		"index": 13
 	}
 ]
