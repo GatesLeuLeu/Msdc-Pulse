@@ -1,19 +1,123 @@
 [
 	{
-		"path": "src/lib/assets/space.jpg",
-		"name": "space",
+		"path": "src/lib/assets/Picture_1.png",
+		"name": "Monitoring_1",
 		"type": "img",
-		"ext": "jpg",
+		"ext": "png",
+		"duration": 1,
+		"index": 0
+	},
+	{
+		"path": "src/lib/assets/Picture_2.png",
+		"name": "Monitoring_2",
+		"type": "img",
+		"ext": "png",
+		"duration": 1,
+		"index": 1
+	},
+	{
+		"path": "src/lib/assets/Picture_3.png",
+		"name": "Monitoring_3",
+		"type": "img",
+		"ext": "png",
 		"duration": 1,
 		"index": 2
 	},
 	{
-		"path": "src/lib/assets/AvaBg.jpg",
-		"name": "avabg",
+		"path": "src/lib/assets/Picture_3.png",
+		"name": "Monitoring_3",
 		"type": "img",
-		"ext": "jpg",
+		"ext": "png",
 		"duration": 1,
-		"index": 0
+		"index": 3
+	},
+	{
+		"path": "src/lib/assets/Picture_4.png",
+		"name": "Monitoring_4",
+		"type": "img",
+		"ext": "png",
+		"duration": 1,
+		"index": 4
+	},
+	{
+		"path": "src/lib/assets/Picture_5.png",
+		"name": "Monitoring_5",
+		"type": "img",
+		"ext": "png",
+		"duration": 1,
+		"index": 5
+	},
+	{
+		"path": "src/lib/assets/Picture_6.png",
+		"name": "Monitoring_6",
+		"type": "img",
+		"ext": "png",
+		"duration": 1,
+		"index": 6
+	},
+	{
+		"path": "src/lib/assets/Picture_7.png",
+		"name": "Monitoring_7",
+		"type": "img",
+		"ext": "png",
+		"duration": 1,
+		"index": 7
+	},
+	{
+		"path": "src/lib/assets/Picture_8.png",
+		"name": "Monitoring_8",
+		"type": "img",
+		"ext": "png",
+		"duration": 1,
+		"index": 8
+	},
+	{
+		"path": "src/lib/assets/Picture_9.png",
+		"name": "Monitoring_9",
+		"type": "img",
+		"ext": "png",
+		"duration": 1,
+		"index": 9
+	},
+	{
+		"path": "src/lib/assets/Picture_10.png",
+		"name": "Monitoring_10",
+		"type": "img",
+		"ext": "png",
+		"duration": 1,
+		"index": 10
+	},
+	{
+		"path": "src/lib/assets/Picture_11.png",
+		"name": "Monitoring_11",
+		"type": "img",
+		"ext": "png",
+		"duration": 1,
+		"index": 11
+	},
+	{
+		"path": "src/lib/assets/Picture_12.png",
+		"name": "Monitoring_12",
+		"type": "img",
+		"ext": "png",
+		"duration": 1,
+		"index": 12
+	},
+	{
+		"path": "src/lib/assets/Picture_13.png",
+		"name": "Monitoring_13",
+		"type": "img",
+		"ext": "png",
+		"duration": 1,
+		"index": 12
+	},
+	{
+		"path": "src/lib/assets/carbon_monitoring",
+		"name": "carbon",
+		"type": "img",
+		"ext": "png",
+		"duration": 1,
+		"index": 13
 	},
 	{
 		"path": "src/lib/assets/Avanade_MSDC.mp4",
@@ -21,6 +125,6 @@
 		"type": "vid",
 		"ext": "mp4",
 		"duration": 1,
-		"index": 1
+		"index": 14
 	}
 ]
