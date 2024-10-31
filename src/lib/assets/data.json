@@ -1,6 +1,6 @@
 [
 	{
-		"path": "src/lib/assets/Picture1.png",
+		"path": "./assets/Picture1.png",
 		"name": "Monitoring_1",
 		"type": "img",
 		"ext": "png",
@@ -8,7 +8,7 @@
 		"index": 0
 	},
 	{
-		"path": "src/lib/assets/Picture2.png",
+		"path": "./assets/Picture2.png",
 		"name": "Monitoring_2",
 		"type": "img",
 		"ext": "png",
@@ -16,7 +16,7 @@
 		"index": 1
 	},
 	{
-		"path": "src/lib/assets/Picture3.png",
+		"path": "./assets/Picture3.png",
 		"name": "Monitoring_3",
 		"type": "img",
 		"ext": "png",
@@ -24,15 +24,7 @@
 		"index": 2
 	},
 	{
-		"path": "src/lib/assets/Picture3.png",
-		"name": "Monitoring_3",
-		"type": "img",
-		"ext": "png",
-		"duration": 0.5,
-		"index": 3
-	},
-	{
-		"path": "src/lib/assets/Picture4.png",
+		"path": "./assets/Picture4.png",
 		"name": "Monitoring_4",
 		"type": "img",
 		"ext": "png",
@@ -40,7 +32,7 @@
 		"index": 4
 	},
 	{
-		"path": "src/lib/assets/Picture5.png",
+		"path": "./assets/Picture5.png",
 		"name": "Monitoring_5",
 		"type": "img",
 		"ext": "png",
@@ -48,7 +40,7 @@
 		"index": 5
 	},
 	{
-		"path": "src/lib/assets/Picture6.png",
+		"path": "./assets/Picture6.png",
 		"name": "Monitoring_6",
 		"type": "img",
 		"ext": "png",
@@ -56,7 +48,7 @@
 		"index": 6
 	},
 	{
-		"path": "src/lib/assets/Picture8.png",
+		"path": "./assets/Picture8.png",
 		"name": "Monitoring_8",
 		"type": "img",
 		"ext": "png",
@@ -64,7 +56,7 @@
 		"index": 8
 	},
 	{
-		"path": "src/lib/assets/Picture10.png",
+		"path": "./assets/Picture10.png",
 		"name": "Monitoring_10",
 		"type": "img",
 		"ext": "png",
@@ -72,7 +64,7 @@
 		"index": 10
 	},
 	{
-		"path": "src/lib/assets/Picture12.png",
+		"path": "./assets/Picture12.png",
 		"name": "Monitoring_12",
 		"type": "img",
 		"ext": "png",
@@ -80,7 +72,7 @@
 		"index": 12
 	},
 	{
-		"path": "src/lib/assets/carbon_monitoring",
+		"path": "./assets/carbon_monitoring.png",
 		"name": "carbon",
 		"type": "img",
 		"ext": "png",
@@ -88,7 +80,7 @@
 		"index": 14
 	},
 	{
-		"path": "src/lib/assets/Avanade_MSDC.mp4",
+		"path": "./assets/Avanade_MSDC.mp4",
 		"name": "promo_msdc",
 		"type": "vid",
 		"ext": "mp4",

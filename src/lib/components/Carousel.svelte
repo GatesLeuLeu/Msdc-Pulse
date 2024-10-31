@@ -29,7 +29,7 @@
 	});
 </script>
 
-<section class="flex flex-col rounded-lg bg-zinc-800 p-4 shadow-lg">
+<section class="flex flex-col rounded-lg p-4 shadow-lg">
 	<div>
 		{#each [sorted[index]] as val (index)}
 			<div class="flex flex-col justify-center h-screen">
@@ -53,4 +53,5 @@
 			</div>
 		{/each}
 	</div>
+	<!-- <button onclick={() => next()}>Next</button> -->
 </section>
